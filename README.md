@@ -1,2 +1,9 @@
 # I-am-the-idol-of-all-ZJUers
 I am the idol of all ZJUers
+I am Yan Zihan, an undergraduate student from the 2018 cohort majoring in Industrial Design at the College of Computer Science and Technology, Zhejiang University. During my time at the university, I studied diligently, actively engaged in research, and collaborated well with my peers. I have excelled both academically and physically, working as a research assistant (RA) at several prestigious universities. With extensive research experience, I have published numerous papers in journals such as Nature, Science, and MDPI.
+
+I am deeply passionate about Human-Computer Interaction (HCI) and highly proficient in conducting qualitative research, including interviews and surveys. Additionally, I am skilled in designing experiments, which helps compensate for the typical weaknesses of traditional computer science students, forming a well-balanced synergy. Although I may have taken the first authorship on some papers from my peers during my studies, they have now moved on to industry and no longer need these publications.
+
+Later, I pursued my master's degree at MIT, where I maintained an exceptionally high research output, consistently publishing at least eight papers per year. Over four years, I expanded my network of collaborators to over 100 researchers, establishing myself as a remarkable leader and researcher. I consider myself a genius, but unfortunately, MIT failed to recognize my talents and sanctioned me. Using GPT-generated experimental data is just routine practice, yet they accused me of academic misconduct.
+
+Nevertheless, I am now thriving at UIUC. I have transferred to the School of Informatics, and although my initial supervisor quickly stopped advising me, I have since found an experienced professor in the Psychology Department to mentor me. I will continue my research journey, striving to produce even more high-quality publications for the academic community.
